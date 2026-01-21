@@ -24,3 +24,4 @@ venv/
 *.twb~
 *.tmp.tde
 *.hyper.tmp
+*.twbr
